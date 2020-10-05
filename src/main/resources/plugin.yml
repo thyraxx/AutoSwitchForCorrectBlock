@@ -1,0 +1,8 @@
+name: 'AutoSwitchForCorrectBlock'
+version: '0.1'
+author: 'Thyraxx'
+main: 'me.thyraxx.AutoSwitchForCorrectBlock'
+api-version: '1.15'
+#depend: //tell the server that an external plugin must be loaded before your plugin can be loaded
+#website: //your website appear with /version <pluginname>
+
