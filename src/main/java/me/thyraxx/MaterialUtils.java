@@ -124,7 +124,11 @@ public class MaterialUtils {
             Material.NETHERITE_BLOCK,
             Material.ANCIENT_DEBRIS,
 
+            Material.OBSIDIAN,
+            Material.FURNACE,
 
+            // Redstone
+            Material.OBSERVER,
     };
 
     private final static Material[] cuttable = new Material[]{
